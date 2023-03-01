@@ -1,0 +1,13 @@
+D:\quản lý quán trà sữa\QuanLyQuanTraSua\QuanLyQuanTraSua\bin\Debug\QuanLyQuanTraSua.exe.config
+D:\quản lý quán trà sữa\QuanLyQuanTraSua\QuanLyQuanTraSua\bin\Debug\QuanLyQuanTraSua.exe
+D:\quản lý quán trà sữa\QuanLyQuanTraSua\QuanLyQuanTraSua\bin\Debug\QuanLyQuanTraSua.pdb
+D:\quản lý quán trà sữa\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.csproj.AssemblyReference.cache
+D:\quản lý quán trà sữa\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.Login.resources
+D:\quản lý quán trà sữa\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.Properties.Resources.resources
+D:\quản lý quán trà sữa\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.csproj.GenerateResource.cache
+D:\quản lý quán trà sữa\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.csproj.CoreCompileInputs.cache
+D:\quản lý quán trà sữa\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.exe
+D:\quản lý quán trà sữa\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.pdb
+D:\quản lý quán trà sữa\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.TableManager.resources
+D:\quản lý quán trà sữa\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.AccountProfile.resources
+D:\quản lý quán trà sữa\QuanLyQuanTraSua\QuanLyQuanTraSua\obj\Debug\QuanLyQuanTraSua.Admin.resources
